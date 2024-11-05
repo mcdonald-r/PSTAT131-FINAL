@@ -1,0 +1,16 @@
+brand: the manufacturer that creates and sells the bike                  
+model: the name of the bike                
+year: the year in which the bike was released and sold for consumers                    
+category: the type of riding the bike was intended to be used for                          
+wheel_size: the size of the wheel of the bike in inches             
+reach: horizontal measurement from where your pedals connect to the frame and the       	center of the handle bars in millimeters                 
+stack: vertical measurement from where your pedals connect to the frame and the center 	of the handle bars in millimeters               
+str: the ratio between stack-to-reach measurements                    
+head_tube_angle: the angle between the head tube's(where your handle bars insert into 	the frame) center axis and a horizontal line in degrees       
+head_tube_length: how long the tube is that connects your handle bars to the front 	wheel in millimeters         
+seat_tube_length: the distance from the center of the bottom bracket(where your pedal 	assembly connects to the frame) to the top of the seat tube in millimeters   
+chainstay_length: the distance between the center of the bottom bracket and the center 	of the rear wheel axle on a bike in millimeters       
+wheelbase: the distance between two wheel axles in millimeters         
+bottom_bracket_offset: the distance between the bottom bracket's horizontal line and 	the horizontal line between the wheel hubs in millimeters  
+suspension_travel_rear: how much a wheel moves up and down when it absorbs bumps and 	jumps from the rear suspension component in millimeters
+suspension_travel_front: how much a wheel moves up and down when it absorbs bumps and 	jumps from the front suspension component in millimeters
